@@ -1,0 +1,20 @@
+{
+  "name": "@superkhau/prettier-config",
+  "version": "1.0.0",
+  "description": "Shared Prettier configurations.",
+  "main": "index.json",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/superkhau/prettier-config.git"
+  },
+  "keywords": [
+    "prettier",
+    "prettier-config"
+  ],
+  "author": "Simon Ho",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/superkhau/prettier-config/issues"
+  },
+  "homepage": "https://github.com/superkhau/prettier-config#readme"
+}
